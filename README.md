@@ -24,7 +24,7 @@ This is an easy guide to installing a help desk ticketing system called osTicket
 - Install HeidiSQL
 - Install MySQL
 - Install PHP
-- install Microsoft Visual C++ Redistributable
+- Install Microsoft Visual C++ Redistributable
   <h2>Steps</h2>
 <h3 align="center">Create Virtual Machine in Azure</h3>
 <br />
